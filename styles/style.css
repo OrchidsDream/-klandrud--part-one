@@ -28,10 +28,10 @@ h1 img {
 }
 
 .menu ul li.donation-button a {
-    background-color: black;
+    background-color: #1f211c;
     color: white;
     border-radius: 10px;
-    border: 1px solid black;
+    border: 1px solid #1f211c;
     padding: 6px 5px;
     
 }
@@ -119,12 +119,14 @@ main {
 }
 
 .image img {
-    border-radius: 8px;
+    border-radius: 10px;
     width: 100%;
 }
 
 footer {
     background-color: #70a48b;
+    position: fixed;
+    bottom: 0;
 }    
 
 .footer-logo img {
