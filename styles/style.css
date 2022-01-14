@@ -127,6 +127,7 @@ footer {
     background-color: #70a48b;
     position: fixed;
     bottom: 0;
+    width: 100%;
 }    
 
 .footer-logo img {
